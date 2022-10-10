@@ -80,4 +80,28 @@
 - Women in Math
 - Women in Science, Technology, Engineering, and Mathematics
 - Hack the North
+#
+## Real Jobs for Software Development Manager
+### Entry: Software Developer (There are no entry level Software Development Manager) for Dynamic Connections
 
+[Entry Level Job Posting](https://ca.indeed.com/Entry-Level-Software-Developer-jobs?vjk=7bd7326982b7892c "Dynamic Connections Job Posting")
+
+| Salary | City | Job Description | Additional Skills or Experience |
+|:-------------:|:-------------:|:-----:|:-:|
+| $40,000 - $50,000 a year | Remote or in Oakville | The company provides integrated logistic solutions. “Your role will entail developing in the Salesforce environment to (i) improve the day-to-day customer experience, (ii) improve the user experience for our people, and (iii) develop novel tools and processes that will continue to differentiate us in the marketplace. | No particular experience required |
+
+### Mid Level: Software Development Manager for Jonas Software
+
+[Mid Level Job Posting](https://ca.indeed.com/Software-Development-Manager-jobs-in-Toronto,-ON?vjk=b10358cfa2ab4a48&advn=5621629551179144 "Jonas Software Job Posting")
+
+| Salary | City | Job Description | Additional Skills or Experience |
+|:-------------:|:-------------:|:-----:|:-:|
+| From $170,000 a year | Toronto | “Jonas Software is the leading provider of enterprise management software solutions to the Country and Golf Clubs, Foodservice, Construction, Fitness & Sports, Attractions, Salon & Spa, Education, Radiology/Laboratory Information Systems, and Product Licensing industries.” Manage software development projects and work with other members of the company by attending meetings and document the product requirements. | 3+ years leading a team of software developers/engineers. Bachelor's degree in Management, Computer Science, Engineering or a related subject.|
+
+### Senior Level: Software Development Manager for CorGTA Inc.
+
+[Senior Level Job Posting](https://ca.indeed.com/jobs?q=Senior+Software+Development+Manager&l=Toronto%2C+ON&vjk=90a59e384970bfb0&advn=566482202440136 "CorGTA Inc. Job Posting")
+
+| Salary | City | Job Description | Additional Skills or Experience |
+|:-------------:|:-------------:|:-----:|:-:|
+| $140,000–$160,000 a year | Remote in Toronto  | “In this role you will be expected to provide leadership, strategic thinking insights and clear direction on projects related to Access Governance, as well as have a background with IT Security experience in Access Management.” | 5-10 years of leadership/people management experience in an operational role. You have at least 4+ years of technical working experience in managing users and user permissions in both Active Directory (AD) and Lightweight Directory Access Protocol (LDAP) systems. You have at least 2+ years of working experience in leading teams providing Identity and Access Management (IAM) services.|
