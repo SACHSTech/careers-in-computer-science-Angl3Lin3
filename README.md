@@ -6,5 +6,19 @@
 ### Requires a bachelor’s degree in computer science, information technology, or computer engineering.
 - Having a masters degree for software management or business administration also helps.
 - Would also need experience in the technological field such as software developement or software engineer.
+### Technical skills include:
+- Java
+- JavaScript
+- Unix
+- HTML
+- SQL
+- .NET
+- PHP
+- ASP
+- C++
+### Non-Technical skills include: 
+- Communication
+- Leadership
+- Analytical skills
 
 
