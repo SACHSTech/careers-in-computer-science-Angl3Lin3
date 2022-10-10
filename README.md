@@ -27,7 +27,7 @@
 - Leadership
 - Analytical skills
 ### Software Development Manager has a median salary of $120,000 annually in Canada. This can range between $90,000 and $178,820.
-#
+
 ## Software Development Manager: Education in Computer Science at Waterloo
 [Waterloo Computer Science Program](https://uwaterloo.ca/future-students/programs/computer-science "Waterloo Computer Science Program Website")
 
@@ -56,7 +56,7 @@
 #### Other Possible Diploma Requirements:
 - Co-op if taking the Co-op program
 #### Needs 4 years or 8 sessions to complete the Computer Science program at Waterloo
-#
+
 ## Experiential Learning 
 ### Waterloo students can participate in Co-op programs such as the ones listed below:
 - Apple
@@ -80,7 +80,7 @@
 - Women in Math
 - Women in Science, Technology, Engineering, and Mathematics
 - Hack the North
-#
+
 ## Real Jobs for Software Development Manager
 ### Entry: Software Developer (There are no entry level Software Development Manager) for Dynamic Connections
 
@@ -106,7 +106,6 @@
 |:-------------:|:-------------:|:-----:|:-:|
 | $140,000–$160,000 a year | Remote in Toronto  | “In this role you will be expected to provide leadership, strategic thinking insights and clear direction on projects related to Access Governance, as well as have a background with IT Security experience in Access Management.” | 5-10 years of leadership/people management experience in an operational role. You have at least 4+ years of technical working experience in managing users and user permissions in both Active Directory (AD) and Lightweight Directory Access Protocol (LDAP) systems. You have at least 2+ years of working experience in leading teams providing Identity and Access Management (IAM) services.|
 
-#
 ## Work Cited
 
 #### 4 Corner Resources. (2022, July 27). Software development manager job descriptions, salary, and interview questions. 4 Corner Resources. Retrieved October 9, 2022, from https://www.4cornerresources.com/job-descriptions/software-development-manager/#:~:text=Software%20development%20managers%20are%20responsible,resolve%20issues%2C%20and%20analyze%20trends. 
