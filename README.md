@@ -20,5 +20,5 @@
 - Communication
 - Leadership
 - Analytical skills
-
+### Software Development Manager has a median salary of $120,000 annually in Canada. This can range between $90,000 and $178,820.
 
