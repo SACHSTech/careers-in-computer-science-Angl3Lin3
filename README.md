@@ -105,3 +105,26 @@
 | Salary | City | Job Description | Additional Skills or Experience |
 |:-------------:|:-------------:|:-----:|:-:|
 | $140,000–$160,000 a year | Remote in Toronto  | “In this role you will be expected to provide leadership, strategic thinking insights and clear direction on projects related to Access Governance, as well as have a background with IT Security experience in Access Management.” | 5-10 years of leadership/people management experience in an operational role. You have at least 4+ years of technical working experience in managing users and user permissions in both Active Directory (AD) and Lightweight Directory Access Protocol (LDAP) systems. You have at least 2+ years of working experience in leading teams providing Identity and Access Management (IAM) services.|
+
+#
+## Work Cited
+
+#### 4 Corner Resources. (2022, July 27). Software development manager job descriptions, salary, and interview questions. 4 Corner Resources. Retrieved October 9, 2022, from https://www.4cornerresources.com/job-descriptions/software-development-manager/#:~:text=Software%20development%20managers%20are%20responsible,resolve%20issues%2C%20and%20analyze%20trends. 
+
+#### Flaticon. (n.d.). Free icons and stickers - millions of resources to download. Flaticon. Retrieved October 9, 2022, from https://www.flaticon.com/ 
+
+#### Indeed. (n.d.). Finding a job | indeed.com - indeed career guide. Indeed. Retrieved October 10, 2022, from https://www.indeed.com/career-advice/finding-a-job 
+
+#### Indeed. (n.d.). Job search canada | indeed. Indeed. Retrieved October 10, 2022, from https://ca.indeed.com/ 
+
+#### SVG Repo. (n.d.). Java 4 logo vector SVG Icon - SVG Repo. SVG Repo - Search and find open source SVG graphics fastest way. Retrieved October 9, 2022, from https://www.svgrepo.com/svg/303388/java-4-logo
+
+#### Talent. (n.d.). Software+Development+manager salary in Canada - average salary. Talent.com. Retrieved October 9, 2022, from https://ca.talent.com/salary?job=software%2Bdevelopment%2Bmanager 
+
+#### Waterloo. (2022, August 10). Co-op. Undergraduate Programs. Retrieved October 9, 2022, from https://uwaterloo.ca/future-students/co-op 
+
+#### Waterloo. (2022, July 20). Computer science. Undergraduate Programs. Retrieved October 9, 2022, from https://uwaterloo.ca/future-students/courses/computer-science 
+
+#### Waterloo. (2022, July 22). Computer science. Undergraduate Programs. Retrieved October 9, 2022, from https://uwaterloo.ca/future-students/programs/computer-science 
+
+#### Wikimedia. (n.d.). Upload.wikimedia.org. Wikitech. Retrieved October 9, 2022, from https://wikitech.wikimedia.org/wiki/Upload.wikimedia.org 
