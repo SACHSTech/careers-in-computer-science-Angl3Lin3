@@ -56,5 +56,28 @@
 #### Other Possible Diploma Requirements:
 - Co-op if taking the Co-op program
 #### Needs 4 years or 8 sessions to complete the Computer Science program at Waterloo
+#
+## Experiential Learning 
+### Waterloo students can participate in Co-op programs such as the ones listed below:
+- Apple
+- Canadian Cancer Society
+- CIBC World Markets
+- City of Toronto
+- Facebook
+- Google
+- IBM Canada
+- Microsoft Canada
+- Sun Life Financial
+- United Nations Associations in Canada
+- WhatsApp
+- Yelp
 
+[Youtube Explanation](https://www.youtube.com/watch?v=Ae84yAhoXtQ&t=10s "Waterloo Computer Science Co-op Program Youtube Video")
+
+### Apart from Co-op, Waterloo also has student life:
+- Math Society
+- Women in Computer Science
+- Women in Math
+- Women in Science, Technology, Engineering, and Mathematics
+- Hack the North
 
