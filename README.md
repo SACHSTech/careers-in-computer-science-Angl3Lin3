@@ -2,4 +2,9 @@
 # Careers in Computer Science
 ## Software Development Manager: Description
 ### Responsible for leading a team that will create software programs. Will be required to coordinate the designing, troubleshooting, optimization of a program.
+###
+### Requires a bachelor’s degree in computer science, information technology, or computer engineering.
+- Having a masters degree for software management or business administration also helps.
+- Would also need experience in the technological field such as software developement or software engineer.
+
 
